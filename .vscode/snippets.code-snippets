@@ -1,0 +1,41 @@
+{
+  "Note Template": {
+    "prefix": "basic",
+    "body": [
+      "# ${1:Title}",
+      "",
+      "STATE: I",
+      "",
+      "SOURCES: ~",
+      "",
+      "## Basics",
+      "",
+      "### What is it?",
+      "",
+      "$2",
+      "",
+      "### How does it work?",
+      "",
+      "$3",
+      "",
+      "### What is it used for?",
+      "",
+      "$4",
+      "",
+      "## Variations & Links",
+      "$0"
+    ],
+    "description": "Inserts a structured documentation form"
+  },
+  "Details Summary Block": {
+	  "prefix": "details",
+	  "body": [
+		  "<details><summary> ${1:text} </summary>",
+		  "",
+		  "",
+		  "$0",
+		  "</details>"
+	  ],
+	  "description": "Crea un bloque desplegable details y summary con saltos de línea"
+  }
+}
