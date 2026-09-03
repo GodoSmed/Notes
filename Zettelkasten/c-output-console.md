@@ -1,16 +1,16 @@
 # C Console Output
+
 STATE: C
 
 [Library: <stdio.h>](./c-stdio.h.md)
 
 **Main Function**:
+
 ```C
 printf();
 ```
 
-
 <details><summary><b> Variable Output </b></summary>
-
 
 ```C
 //'x' satisfies the data type
@@ -61,9 +61,11 @@ printf("%Lg", lf); // Long Double Compact
 printf("%p", ptr); // Pointer Address
 printf("%n", &n); // Written Character Count
 ```
+
 </details><br>
 
 **Multiple Variable Output**
+
 ```C
 //'x', 'y', 'z' satisfies the data type
 printf("first: %d, Second: %f Third: %s", x, y, z);

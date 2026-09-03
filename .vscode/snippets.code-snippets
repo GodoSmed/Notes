@@ -5,6 +5,7 @@
       "# ${1:Title}",
       "",
       "STATE: I",
+      "",
       "SOURCES: ~",
       "",
       "## Basics",

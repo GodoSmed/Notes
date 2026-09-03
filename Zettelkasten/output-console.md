@@ -1,6 +1,7 @@
 # Output Console
 
 STATE: D
+
 SOURCE: [C Book](/Resources/Documents/C-book.pdf)
 
 ## Basics

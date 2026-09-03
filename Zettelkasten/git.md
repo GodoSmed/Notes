@@ -1,5 +1,6 @@
 # Git
-STATE: I
+STATE: D
+
 SOURCE: ~
 
 ## Basics
