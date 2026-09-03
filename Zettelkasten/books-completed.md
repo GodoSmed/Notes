@@ -2,7 +2,7 @@
 
 STATE: D
 
-<center><span style="color:#2fc000">
+<span style="color:#2fc000">
 
 1984
 Alice's Book I
@@ -73,4 +73,4 @@ Pickman’s Model
 
 The Wizard of Oz
 
-</center>
+</span>

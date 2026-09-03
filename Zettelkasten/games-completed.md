@@ -3,7 +3,6 @@ STATE: D
 
 <span style="color:#2ECC71">
 
-**--------------------------------------------------------------------------------------------------------------------
 Aladin
 DARK SOULS™ II
 DARK SOULS™ II: Scholar of the First Sin
@@ -38,5 +37,5 @@ Super Metroid
 Terraria
 The Elder Scrolls IV: Oblivion
 巫兎 - KANNAGI USAGI
-----------------------------------------------------------------------------------------------------------------------**
 
+</span>
