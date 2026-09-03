@@ -1,13 +1,14 @@
 # Completed Books
-Status D
 
-<span style="color:#2fc000">
+STATE: D
 
-**--------------------------------------------------------------------------------------------------------------------
+<center><span style="color:#2fc000">
+
 1984
 Alice's Book I
-Alice's Book II 
-Blindness 
+Alice's Book II
+Blindness
+
 <details><summary> H.P. Lovecraft </summary>
 
 The little glass bottle
@@ -67,7 +68,9 @@ The Descendant
 Cool Air
 The Call of Cthulhu
 Pickman’s Model
+
 </details>
 
+The Wizard of Oz
 
-----------------------------------------------------------------------------------------------------------------------**
+</center>

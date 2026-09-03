@@ -1,6 +1,8 @@
 # Markdown Sheet
-Status C
 
+STATE C
+
+<!-- cSpell:disable -->
 <!--Headings-->
 
 # H1
@@ -60,8 +62,8 @@ System.out.println("Out");
 [text](https:// or local path)
 
 ### Local Link Example
-[text](local heading in lower case and `-` as spaces) ([text](#local-link-example))
 
+[text](local heading in lower case and `-` as spaces) ([text](#local-link-example))
 
 <!--Image-->
 

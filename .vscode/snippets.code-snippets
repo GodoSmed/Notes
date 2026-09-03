@@ -1,0 +1,29 @@
+{
+  "Note Template": {
+    "prefix": "basic",
+    "body": [
+      "# ${1:Title}",
+      "",
+      "STATE: I",
+      "SOURCES: ~",
+      "",
+      "## Basics",
+      "",
+      "### What is it?",
+      "",
+      "$2",
+      "",
+      "### How does it work?",
+      "",
+      "$3",
+      "",
+      "### What is it used for?",
+      "",
+      "$4",
+      "",
+      "## Variations & Links",
+      "$0"
+    ],
+    "description": "Inserts a structured documentation form"
+  }
+}

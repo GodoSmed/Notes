@@ -1,5 +1,5 @@
 # Completed Games
-Status D
+STATE: D
 
 <span style="color:#2ECC71">
 
