@@ -1,4 +1,4 @@
-# Language C
+# C
 
 STATUS: D
 
