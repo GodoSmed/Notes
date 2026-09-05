@@ -24,6 +24,12 @@ STATE: D
 
 ## RetroArch
 
+34GB Max
+
+- Persona 3
+- Persona 4
+- FFX
+- Resident Evil 4
 - Baroque (Saturn)
 - Berserk (DreamCast)
 - D2
@@ -54,9 +60,6 @@ STATE: D
 - ToZ A link between worlds
 - ToZ Spirit Tracks
 - ToZ Majora's Mask (Redux)
-
----
-
 - Berserk (PS2)
 - Resident Evil Outbreak
 - Resident Evil Outbreak File #2
