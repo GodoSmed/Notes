@@ -22,14 +22,13 @@ STATE: D
 - Metroid Prime Trilogy (Primehack)
 - OpenStarbound 500 mods Collection
 
-## RetroArch
-
-34GB Max
+## RetroArch (30GB)
 
 - Persona 3
 - Persona 4
 - FFX
 - Resident Evil 4
+- ICO
 - Baroque (Saturn)
 - Berserk (DreamCast)
 - D2
