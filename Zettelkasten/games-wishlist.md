@@ -22,7 +22,7 @@ STATE: D
 - Metroid Prime Trilogy (Primehack)
 - OpenStarbound 500 mods Collection
 
-## RetroArch (30GB)
+## RetroArch 
 
 - Persona 3
 - Persona 4
@@ -50,13 +50,11 @@ STATE: D
 - Phoenix Wright Ace Attorney
 - Pokemon Blaze Black I
 - Pokemon Blaze Black II (Redux)
-- Radian Historia
 - Ninokuni ds
 - Starfox Adventures
 - Super Junkoid DX
 - Super Mario World Definitive Edition
 - Terranigma
-- ToZ A link between worlds
 - ToZ Spirit Tracks
 - ToZ Majora's Mask (Redux)
 - Berserk (PS2)
