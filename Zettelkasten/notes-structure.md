@@ -35,4 +35,4 @@ What is it used for?
 
 ## Definition of Done
 
-The first state of a note is incomplete, if information can be added continuously, then is a `dynamic note` otherwise, it will be marked as complete.
+The first state of a note is incomplete, if information (not links) can be added continuously, then is a `dynamic note` otherwise, it will be marked as complete.
