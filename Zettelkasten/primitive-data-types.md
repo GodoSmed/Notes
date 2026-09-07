@@ -2,7 +2,7 @@
 
 STATE: I
 
-SOURCES: ~
+SOURCES: [C Book](/Resources/Documents/C-book.pdf)
 
 ## Basics
 

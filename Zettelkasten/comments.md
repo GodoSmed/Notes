@@ -21,7 +21,4 @@ Every character inside a comment is ignored by the compiler
 
 ## Variations & Links
 
-| Language | Syntax                 |
-| -------- | ----------------------- |
-| C        | `//`, `/* multiline */` |
-| Bash     | `#`                     |
+![comments](/Resources/Media/comments.drawio.png)
