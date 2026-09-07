@@ -19,7 +19,8 @@ Here, changes are not yet tracked by Git. Until they move to the next area:
 
 Add changes to staging area
 ```bash
-git add `directory/fileName.ext`
+git add . #adds all new/modified files
+git add `directory/fileName.ext` #adds specific file
 ```
 
 **Staging (Area)**
