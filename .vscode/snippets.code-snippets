@@ -26,5 +26,16 @@
       "$0"
     ],
     "description": "Inserts a structured documentation form"
+  },
+  "Details Summary Block": {
+	  "prefix": "details",
+	  "body": [
+		  "<details><summary> ${1:text} </summary>",
+		  "",
+		  "",
+		  "$0",
+		  "</details>"
+	  ],
+	  "description": "Crea un bloque desplegable details y summary con saltos de línea"
   }
 }

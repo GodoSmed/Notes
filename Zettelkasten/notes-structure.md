@@ -18,18 +18,12 @@ What is it used for?
 
 ## Variations & Links
 
-- Same concept + simple syntax
-  - `<details><summary>` :emoji: Language `</summary>` content `</details>`
-
-- Same concept + minor differences
-  - Comparison table
-    - draw.io → complex visual comparison
-    - Markdown → simple comparison / links
-
-- Concept variation or extensive, complex implementation
-  - Specific note (with link)
-
-- Related Notes
+Compare multiple items → drawio table
+Compare multiple items and links are needed → Markdown table
+Represent relationships, structure, hierarchy, or flow → Diagram
+Separate independent details → Expandable sections
+Explain one specific thing → Specific note
+Additional but non-essential context → Related notes
 
 **Use `---` to separate links from variations and `###` to make the links larger**
 
