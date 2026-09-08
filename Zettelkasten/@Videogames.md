@@ -2,5 +2,5 @@
 
 STATE: D
 
-[Completed](./games-completed.md)
-[Wishlist](./games-wishlist.md)
+* [Completed](./games-completed.md)
+* [Wishlist](./games-wishlist.md)

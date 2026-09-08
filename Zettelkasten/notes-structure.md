@@ -18,8 +18,8 @@ What is it used for?
 
 ## Variations & Links
 
-Compare multiple items → drawio table
-Compare multiple items and links are needed → Markdown table
+Compare multiple items (complex) → drawio table
+Compare multiple items (simple) → Markdown table
 Represent relationships, structure, hierarchy, or flow → Diagram
 Separate independent details → Expandable sections
 Explain one specific thing → Specific note

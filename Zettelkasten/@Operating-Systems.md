@@ -1,3 +1,3 @@
 # Operating Systems
 
-Status: D
+STATE: D

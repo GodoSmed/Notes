@@ -2,4 +2,4 @@
 
 STATE: D
 
-[Completed](./books-completed.md)
+* [Completed](./books-completed.md)
