@@ -1,6 +1,6 @@
 # Primitive Data Types
 
-STATE: I
+STATE: D
 
 SOURCES: [C Book](/Resources/Documents/C-book.pdf)
 
@@ -8,32 +8,53 @@ SOURCES: [C Book](/Resources/Documents/C-book.pdf)
 
 ### What is it?
 
-..
+Are sets of values (simple and raw) and operations valid only for those values
 
 ### How does it work?
 
-#### Integer:
+#### [Integers](./integer-numbers.md)
 
-#### Float:
+Numbers without fractional parts
 
-#### Char:
+#### Float
+
+Represents [real numbers](./real-numbers.md) with a finite number of decimals
+
+#### Characters
+
+Represents letters, symbols and numbers
+
+#### Booleans
+
+Have two states (on/off)
 
 ### What is it used for?
 
-Declare [variables](./variable-declaration.md)
+[Variable declaration](./variable-declaration.md)
 
 ## Variations & Links
 
-Extensiones: emojis, draw.io (laptop también)
-
-Agregar tabla drawio | Language | Syntax | mostrando los nombres que les da el lenguaje
-
-### Size and Range
-
 <details><summary> C </summary>
 
-| Type | Size | Range |
-| ---- | ---- | ----- |
-|      |      |       |
+Dynamic sizes, C specific 
 
-<details>
+
+</details>
+
+<details><summary> Java </summary>
+
+Fixed Sizes
+
+| Type  | Size | Range |
+| ----- | ---- | ----- |
+| int   |      |       |
+| short |      |       |
+| long  |      |       |
+
+</details>
+
+---
+
+### [Pointers](./pointers.md)
+
+They aren't primitive, because they depends on other data types, although they are really important

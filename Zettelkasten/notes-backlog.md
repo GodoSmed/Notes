@@ -45,7 +45,25 @@ AI Techniques, AI Generative, Computer Architecture, Data Mining, Mobile Apps, D
    28. Chapter 5: Section 5.5 Character Pointers and Functions \[]
    29. Chapter 5: Section 5.10 Command-line Arguments \[]
    30. Chapter 7: Section 7.8.5 Storage Management \[]
-2. [Data Structures & Algorithms](/Resources/Documents/Data-Structures-And-Algorithms-In-Java.pdf)
+2. [Object Oriented Analysis and Design](/Resources/Documents/Object-Oriented-Analysis-And-Design.pdf)
+   1. Chapter 2: Section 2.2 Foundations of the Object Model
+   2. Chapter 2: Section 2.3 Elements of the Object Model
+   3. Chapter 3: Section 3.1 The Nature of an Object
+   4. Chapter 3: Section 3.2 Relationships among Objects
+   5. Chapter 3: Section 3.3 The Nature of a Class
+   6. Chapter 3: Section 3.4 Relationships among Classes
+   7. Chapter 3: Section 3.5 The Interplay of Classes and Objects
+   8. Chapter 3: Section 3.6 On Building Quality Classes and Objects
+   9. Chapter 4: Section 4.2 Identifying Classes and Objects
+   10. Chapter 4: Section 4.3 Key Abstractions and Mechanisms
+   11. Chapter 5: Section 5.1 The Unified Modeling Language
+   12. Chapter 5: Section 5.5 Use Case Diagrams
+   13. Chapter 5: Section 5.6 Activity Diagrams
+   14. Chapter 5: Section 5.7 Class Diagrams
+   15. Chapter 5: Section 5.8 Sequence Diagrams
+   16. Chapter 5: Section 5.11 State Machine Diagrams
+   17. Chapter 6: Section 6.3 The Micro Process: The Analysis and Design Process
+3. [Data Structures & Algorithms](/Resources/Documents/Data-Structures-And-Algorithms-In-Java.pdf)
    1. Chapter 2: Section 2.1 Computational and Asymptotic Complexity
    2. Chapter 2: Section 2.2 Big-O Notation
    3. Chapter 2: Section 2.8 The Best, Average, and Worst Cases
@@ -69,24 +87,87 @@ AI Techniques, AI Generative, Computer Architecture, Data Mining, Mobile Apps, D
    21. Chapter 9: Section 9.3.4 Mergesort
    22. Chapter 10: Section 10.1 Hash Functions
    23. Chapter 10: Section 10.2 Collision Resolution
-3. [Object Oriented Analysis and Design](/Resources/Documents/Object-Oriented-Analysis-And-Design.pdf)
-   1. Chapter 2: Section 2.2 Foundations of the Object Model
-   2. Chapter 2: Section 2.3 Elements of the Object Model
-   3. Chapter 3: Section 3.1 The Nature of an Object
-   4. Chapter 3: Section 3.2 Relationships among Objects
-   5. Chapter 3: Section 3.3 The Nature of a Class
-   6. Chapter 3: Section 3.4 Relationships among Classes
-   7. Chapter 3: Section 3.5 The Interplay of Classes and Objects
-   8. Chapter 3: Section 3.6 On Building Quality Classes and Objects
-   9. Chapter 4: Section 4.2 Identifying Classes and Objects
-   10. Chapter 4: Section 4.3 Key Abstractions and Mechanisms
-   11. Chapter 5: Section 5.1 The Unified Modeling Language
-   12. Chapter 5: Section 5.5 Use Case Diagrams
-   13. Chapter 5: Section 5.6 Activity Diagrams
-   14. Chapter 5: Section 5.7 Class Diagrams
-   15. Chapter 5: Section 5.8 Sequence Diagrams
-   16. Chapter 5: Section 5.11 State Machine Diagrams
-   17. Chapter 6: Section 6.3 The Micro Process: The Analysis and Design Process
+4. [Java Concurrency](/Resources/Documents/Java-Concurrency-in-Practice.pdf)
+   1. Chapter 1: Section 1.2 Benefits of threads \[]
+   2. Chapter 1: Section 1.3 Risks of threads \[]
+   3. Chapter 2: Section 2.1 What is thread safety? \[]
+   4. Chapter 2: Section 2.2 Atomicity \[]
+   5. Chapter 2: Section 2.3 Locking \[]
+   6. Chapter 2: Section 2.4 Guarding state with locks \[]
+   7. Chapter 3: Section 3.1 Visibility \[]
+   8. Chapter 3: Section 3.3 Thread confinement \[]
+   9. Chapter 3: Section 3.4 Immutability \[]
+   10. Chapter 3: Section 3.5 Safe publication \[]
+   11. Chapter 4: Section 4.1 Designing a thread-safe class \[]
+   12. Chapter 4: Section 4.3 Delegating thread safety \[]
+   13. Chapter 5: Section 5.1 Synchronized collections \[]
+   14. Chapter 5: Section 5.2 Concurrent collections \[]
+   15. Chapter 5: Section 5.3 Blocking queues and the producer-consumer pattern \[]
+   16. Chapter 6: Section 6.1 Executing tasks in threads \[]
+   17. Chapter 6: Section 6.2 The Executor framework \[]
+   18. Chapter 7: Section 7.1 Task cancellation \[]
+   19. Chapter 8: Section 8.2 Sizing thread pools \[]
+   20. Chapter 8: Section 8.3 Configuring ThreadPoolExecutor \[]
+   21. Chapter 10: Section 10.1 Deadlock \[]
+   22. Chapter 10: Section 10.2 Avoiding and diagnosing deadlocks \[]
+   23. Chapter 11: Section 11.4 Reducing lock contention \[]
+   24. Chapter 13: Section 13.1 Lock and ReentrantLock \[]
+   25. Chapter 15: Section 15.3 Atomic variable classes \[]
+5. [C Parallel Programming](/Resources/Documents/An-Introduction-to-Parallel-Programming.pdf)
+   1. Chapter 1: Section 1.3 Why We’re Building Parallel Systems \[]
+   2. Chapter 1: Section 1.4 How Do We Write Parallel Programs? \[]
+   3. Chapter 1: Section 1.6 Concurrent, Parallel, Distributed \[]
+   4. Chapter 2: Section 2.2.1 The basics of caching \[]
+   5. Chapter 2: Section 2.2.3 Caches and programs: an example \[]
+   6. Chapter 2: Section 2.3.1 SIMD systems \[]
+   7. Chapter 2: Section 2.3.2 MIMD systems \[]
+   8. Chapter 2: Section 2.3.4 Cache coherence \[]
+   9. Chapter 2: Section 2.3.5 Shared-memory versus distributed-memory \[]
+   10. Chapter 2: Section 2.4.2 Coordinating the processes/threads \[]
+   11. Chapter 2: Section 2.6.1 Speedup and efficiency \[]
+   12. Chapter 2: Section 2.6.2 Amdahl’s law \[]
+   13. Chapter 2: Section 2.6.3 Scalability \[]
+   14. Chapter 2: Section 2.7 Parallel Program Design \[]
+   15. Chapter 3: Section 3.1.2 MPI programs \[]
+   16. Chapter 3: Section 3.1.4 Communicators, MPI Comm size and MPI Comm rank \[]
+   17. Chapter 3: Section 3.1.7 MPI Send \[]
+   18. Chapter 3: Section 3.1.8 MPI Recv \[]
+   19. Chapter 3: Section 3.1.11 Semantics of MPI Send and MPI Recv \[]
+   20. Chapter 3: Section 3.1.12 Some potential pitfalls \[]
+   21. Chapter 3: Section 3.2.2 Parallelizing the trapezoidal rule \[]
+   22. Chapter 3: Section 3.4.2 MPI Reduce \[]
+   23. Chapter 3: Section 3.4.4 MPI Allreduce \[]
+   24. Chapter 3: Section 3.4.5 Broadcast \[]
+   25. Chapter 3: Section 3.4.6 Data distributions \[]
+   26. Chapter 3: Section 3.4.7 Scatter \[]
+   27. Chapter 3: Section 3.4.8 Gather \[]
+   28. Chapter 3: Section 3.7.2 Parallel odd-even transposition sort \[]
+   29. Chapter 3: Section 3.7.3 Safety in MPI programs \[]
+   30. Chapter 4: Section 4.2 Hello, World \[]
+   31. Chapter 4: Section 4.3 Matrix-Vector Multiplication \[]
+   32. Chapter 4: Section 4.4 Critical Sections \[]
+   33. Chapter 4: Section 4.5 Busy-Waiting \[]
+   34. Chapter 4: Section 4.6 Mutexes \[]
+   35. Chapter 4: Section 4.7 Producer-Consumer Synchronization and Semaphores \[]
+   36. Chapter 4: Section 4.8 Barriers and Condition Variables \[]
+   37. Chapter 4: Section 4.9 Read-Write Locks \[]
+   38. Chapter 4: Section 4.10 Caches, Cache Coherence, and False Sharing \[]
+   39. Chapter 4: Section 4.11 Thread-Safety \[]
+   40. Chapter 5: Section 5.2 The Trapezoidal Rule \[]
+   41. Chapter 5: Section 5.3 Scope of Variables \[]
+   42. Chapter 5: Section 5.4 The Reduction Clause \[]
+   43. Chapter 5: Section 5.5 The parallel for Directive \[]
+   44. Chapter 5: Section 5.5.2 Data dependences \[]
+   45. Chapter 5: Section 5.7 Scheduling Loops \[]
+   46. Chapter 5: Section 5.8.7 The atomic directive \[]
+   47. Chapter 5: Section 5.8.8 Critical sections and locks \[]
+   48. Chapter 5: Section 5.9 Caches, Cache Coherence, and False Sharing \[]
+   49. Chapter 5: Section 5.10 Thread-Safety \[]
+   50. Chapter 6: Section 6.1.3 Parallelizing the n-body solvers \[]
+   51. Chapter 6: Section 6.1.5 Parallelizing the basic solver using OpenMP \[]
+   52. Chapter 6: Section 6.1.9 Parallelizing the basic solver using MPI \[]
+   53. Chapter 6: Section 6.2.5 Parallelizing tree search \[]
+   54. Chapter 6: Section 6.4 Which API? \[]
 
 **Second Part**
 
@@ -435,64 +516,38 @@ AI Techniques, AI Generative, Computer Architecture, Data Mining, Mobile Apps, D
    38. Chapter 18: Section Memory Management
    39. Chapter 18: Section Executing Other Programs
    40. Chapter 18: Section Object
-2. [Java Concurrency](/Resources/Documents/Java-Concurrency-in-Practice.pdf)
-   1. Chapter 1: Section 1.2 Benefits of threads \[ ]
-   2. Chapter 1: Section 1.3 Risks of threads \[ ]
-   3. Chapter 2: Section 2.1 What is thread safety? \[ ]
-   4. Chapter 2: Section 2.2 Atomicity \[ ]
-   5. Chapter 2: Section 2.3 Locking \[ ]
-   6. Chapter 2: Section 2.4 Guarding state with locks \[ ]
-   7. Chapter 3: Section 3.1 Visibility \[ ]
-   8. Chapter 3: Section 3.3 Thread confinement \[ ]
-   9. Chapter 3: Section 3.4 Immutability \[ ]
-   10. Chapter 3: Section 3.5 Safe publication \[ ]
-   11. Chapter 4: Section 4.1 Designing a thread-safe class \[ ]
-   12. Chapter 4: Section 4.3 Delegating thread safety \[ ]
-   13. Chapter 5: Section 5.1 Synchronized collections \[ ]
-   14. Chapter 5: Section 5.2 Concurrent collections \[ ]
-   15. Chapter 5: Section 5.3 Blocking queues and the producer-consumer pattern \[ ]
-   16. Chapter 6: Section 6.1 Executing tasks in threads \[ ]
-   17. Chapter 6: Section 6.2 The Executor framework \[ ]
-   18. Chapter 7: Section 7.1 Task cancellation \[ ]
-   19. Chapter 8: Section 8.2 Sizing thread pools \[ ]
-   20. Chapter 8: Section 8.3 Configuring ThreadPoolExecutor \[ ]
-   21. Chapter 10: Section 10.1 Deadlock \[ ]
-   22. Chapter 10: Section 10.2 Avoiding and diagnosing deadlocks \[ ]
-   23. Chapter 11: Section 11.4 Reducing lock contention \[ ]
-   24. Chapter 13: Section 13.1 Lock and ReentrantLock \[ ]
-   25. Chapter 15: Section 15.3 Atomic variable classes \[ ]
-3. [Modern Java Contents](/Resources/Documents/Modern-Java-in-Action.pdf)
-   1. Chapter 5: Section 5.7 Numeric streams \[ ]
-   2. Chapter 5: Section 5.8 Building streams \[ ]
-   3. Chapter 6: Section 6.1 Collectors in a nutshell \[ ]
-   4. Chapter 6: Section 6.2 Reducing and summarizing \[ ]
-   5. Chapter 6: Section 6.3 Grouping \[ ]
-   6. Chapter 6: Section 6.4 Partitioning \[ ]
-   7. Chapter 6: Section 6.5 The Collector interface \[ ]
-   8. Chapter 7: Section 7.1 Parallel streams \[ ]
-   9. Chapter 7: Section 7.2 The fork/join framework \[ ]
-   10. Chapter 7: Section 7.3 Spliterator \[ ]
-   11. Chapter 8: Section 8.1 Collection factories \[ ]
-   12. Chapter 8: Section 8.2 Working with List and Set \[ ]
-   13. Chapter 8: Section 8.3 Working with Map \[ ]
-   14. Chapter 8: Section 8.4 Improved ConcurrentHashMap \[ ]
-   15. Chapter 9: Section 9.1 Refactoring for improved readability and flexibility \[ ]
-   16. Chapter 9: Section 9.2 Refactoring object-oriented design patterns with lambdas \[ ]
-   17. Chapter 11: Section 11.2 Introducing the Optional class \[ ]
-   18. Chapter 11: Section 11.3 Patterns for adopting Optionals \[ ]
-   19. Chapter 12: Section 12.1 LocalDate, LocalTime, LocalDateTime, Instant, Duration, and Period \[ ]
-   20. Chapter 12: Section 12.2 Manipulating, parsing, and formatting dates \[ ]
-   21. Chapter 14: Section 14.3 Java modules: the big picture \[ ]
-   22. Chapter 14: Section 14.8 Module declaration and clauses \[ ]
-   23. Chapter 15: Section 15.2 Synchronous and asynchronous APIs \[ ]
-   24. Chapter 15: Section 15.5 Publish-subscribe and reactive programming \[ ]
-   25. Chapter 16: Section 16.1 Simple use of Futures \[ ]
-   26. Chapter 16: Section 16.2 Implementing an asynchronous API \[ ]
-   27. Chapter 16: Section 16.3 Making your code nonblocking \[ ]
-   28. Chapter 16: Section 16.4 Pipelining asynchronous tasks \[ ]
-   29. Chapter 17: Section 17.2 Reactive streams and the Flow API \[ ]
-   30. Chapter 18: Section 18.2 What’s functional programming? \[ ]
-4. [Effective Java Practices](/Resources/Documents/Effective-Java-Practices.pdf)
+2. [Modern Java in Action](/Resources/Documents/Modern-Java-in-Action.pdf)
+   1. Chapter 5: Section 5.7 Numeric streams \[]
+   2. Chapter 5: Section 5.8 Building streams \[]
+   3. Chapter 6: Section 6.1 Collectors in a nutshell \[]
+   4. Chapter 6: Section 6.2 Reducing and summarizing \[]
+   5. Chapter 6: Section 6.3 Grouping \[]
+   6. Chapter 6: Section 6.4 Partitioning \[]
+   7. Chapter 6: Section 6.5 The Collector interface \[]
+   8. Chapter 7: Section 7.1 Parallel streams \[]
+   9. Chapter 7: Section 7.2 The fork/join framework \[]
+   10. Chapter 7: Section 7.3 Spliterator \[]
+   11. Chapter 8: Section 8.1 Collection factories \[]
+   12. Chapter 8: Section 8.2 Working with List and Set \[]
+   13. Chapter 8: Section 8.3 Working with Map \[]
+   14. Chapter 8: Section 8.4 Improved ConcurrentHashMap \[]
+   15. Chapter 9: Section 9.1 Refactoring for improved readability and flexibility \[]
+   16. Chapter 9: Section 9.2 Refactoring object-oriented design patterns with lambdas \[]
+   17. Chapter 11: Section 11.2 Introducing the Optional class \[]
+   18. Chapter 11: Section 11.3 Patterns for adopting Optionals \[]
+   19. Chapter 12: Section 12.1 LocalDate, LocalTime, LocalDateTime, Instant, Duration, and Period \[]
+   20. Chapter 12: Section 12.2 Manipulating, parsing, and formatting dates \[]
+   21. Chapter 14: Section 14.3 Java modules: the big picture \[]
+   22. Chapter 14: Section 14.8 Module declaration and clauses \[]
+   23. Chapter 15: Section 15.2 Synchronous and asynchronous APIs \[]
+   24. Chapter 15: Section 15.5 Publish-subscribe and reactive programming \[]
+   25. Chapter 16: Section 16.1 Simple use of Futures \[]
+   26. Chapter 16: Section 16.2 Implementing an asynchronous API \[]
+   27. Chapter 16: Section 16.3 Making your code nonblocking \[]
+   28. Chapter 16: Section 16.4 Pipelining asynchronous tasks \[]
+   29. Chapter 17: Section 17.2 Reactive streams and the Flow API \[]
+   30. Chapter 18: Section 18.2 What’s functional programming? \[]
+3. [Effective Java Practices](/Resources/Documents/Effective-Java-Practices.pdf)
    1. Item 1: Consider static factory methods instead of constructors
    2. Item 2: Consider a builder when faced with many constructor parameters
    3. Item 3: Enforce the singleton property with a private constructor or an enum type
@@ -513,7 +568,7 @@ AI Techniques, AI Generative, Computer Architecture, Data Mining, Mobile Apps, D
    18. Item 70: Use checked exceptions for recoverable conditions and runtime exceptions for programming errors
    19. Item 80: Prefer executors, tasks, and streams to threads
    20. Item 85: Prefer alternatives to Java serialization
-5. [Fundamentals of Database Systems](/Resources/Documents/Database-System-Concepts.pdf)
+4. [Fundamentals of Database Systems](/Resources/Documents/Database-System-Concepts.pdf)
    1. Chapter 1: Section 1.2 Purpose of Database Systems
    2. Chapter 1: Section 1.3 View of Data
    3. Chapter 2: Section 2.1 Structure of Relational Databases
@@ -637,7 +692,35 @@ AI Techniques, AI Generative, Computer Architecture, Data Mining, Mobile Apps, D
 
 **First Part**
 
-1. [Computer-Networks](/Resources/Documents/Computer-Networks.pdf)
+1. [Software Engineering](/Resources/Documents/Ingenieria-De-Software.pdf)
+   1. Capítulo 1: Sección 1.1 Desarrollo de software profesional
+   2. Capítulo 2: Sección 2.1 Modelos de proceso de software
+   3. Capítulo 2: Sección 2.2 Actividades del proceso
+   4. Capítulo 3: Sección 3.1 Métodos ágiles
+   5. Capítulo 3: Sección 3.2 Desarrollo dirigido por un plan y desarrollo ágil
+   6. Capítulo 3: Sección 3.3 Programación extrema (Prácticas clave)
+   7. Capítulo 4: Sección 4.1 Requerimientos funcionales y no funcionales
+   8. Capítulo 4: Sección 4.4 Procesos de ingeniería de requerimientos
+   9. Capítulo 5: Sección 5.1 Modelos de contexto
+   10. Capítulo 5: Sección 5.2 Modelos de interacción
+   11. Capítulo 5: Sección 5.3 Modelos estructurales
+   12. Capítulo 6: Sección 6.1 Decisiones en el diseño arquitectónico
+   13. Capítulo 6: Sección 6.3 Patrones arquitectónicos
+   14. Capítulo 7: Sección 7.2 Patrones de diseño
+   15. Capítulo 7: Sección 7.4 Desarrollo de código abierto
+   16. Capítulo 8: Sección 8.1 Pruebas de desarrollo
+   17. Capítulo 8: Sección 8.2 Desarrollo dirigido por pruebas (TDD)
+   18. Capítulo 9: Sección 9.1 Procesos de evolución
+   19. Capítulo 9: Sección 9.3 Mantenimiento del software
+   20. Capítulo 11: Sección 11.1 Propiedades de confiabilidad
+   21. Capítulo 14: Sección 14.2 Diseño para la seguridad
+   22. Capítulo 16: Sección 16.1 Panorama de la reutilización
+   23. Capítulo 18: Sección 18.4 Software como servicio (SaaS)
+   24. Capítulo 22: Sección 22.1 Gestión del riesgo
+   25. Capítulo 23: Sección 23.4 Planeación ágil
+   26. Capítulo 25: Sección 25.1 Administración del cambio
+   27. Capítulo 25: Sección 25.2 Gestión de versiones
+2. [Computer-Networks](/Resources/Documents/Computer-Networks.pdf)
    1. Chapter 1: Section 1.1 What Is the Internet? (A Services Description & What Is a Protocol?)
    2. Chapter 1: Section 1.3 The Network Core (Packet Switching vs. Circuit Switching)
    3. Chapter 1: Section 1.4 Delay, Loss, and Throughput in Packet-Switched Networks
@@ -663,7 +746,7 @@ AI Techniques, AI Generative, Computer Architecture, Data Mining, Mobile Apps, D
    23. Chapter 8: Section 8.3 Message Integrity and Digital Signatures (Cryptographic Hash Functions)
    24. Chapter 8: Section 8.6 Securing TCP and HTTP Connections: TLS (The Big Picture & TLS 1.3)
    25. Chapter 8: Section 8.9 Operational Security: Firewalls and Intrusion Detection Systems
-2. [Spring in Action](/Resources/Documents/Spring-in-Action-6th.pdf)
+3. [Spring in Action](/Resources/Documents/Spring-in-Action-6th.pdf)
    1. Chapter 1: Section 1.1 What is Spring?
    2. Chapter 1: Section 1.2 Examining the Spring project structure
    3. Chapter 1: Section 1.4 Surveying the Spring landscape
@@ -775,37 +858,6 @@ AI Techniques, AI Generative, Computer Architecture, Data Mining, Mobile Apps, D
 <details><summary><span style="font-size: 1.2em;"> ☁️ Cloud Computing & Microservices </span></summary>
 
 **First Part**
-
-1. [Software Engineering](/Resources/Documents/Ingenieria-De-Software.pdf)
-   1. Capítulo 1: Sección 1.1 Desarrollo de software profesional
-   2. Capítulo 2: Sección 2.1 Modelos de proceso de software
-   3. Capítulo 2: Sección 2.2 Actividades del proceso
-   4. Capítulo 3: Sección 3.1 Métodos ágiles
-   5. Capítulo 3: Sección 3.2 Desarrollo dirigido por un plan y desarrollo ágil
-   6. Capítulo 3: Sección 3.3 Programación extrema (Prácticas clave)
-   7. Capítulo 4: Sección 4.1 Requerimientos funcionales y no funcionales
-   8. Capítulo 4: Sección 4.4 Procesos de ingeniería de requerimientos
-   9. Capítulo 5: Sección 5.1 Modelos de contexto
-   10. Capítulo 5: Sección 5.2 Modelos de interacción
-   11. Capítulo 5: Sección 5.3 Modelos estructurales
-   12. Capítulo 6: Sección 6.1 Decisiones en el diseño arquitectónico
-   13. Capítulo 6: Sección 6.3 Patrones arquitectónicos
-   14. Capítulo 7: Sección 7.2 Patrones de diseño
-   15. Capítulo 7: Sección 7.4 Desarrollo de código abierto
-   16. Capítulo 8: Sección 8.1 Pruebas de desarrollo
-   17. Capítulo 8: Sección 8.2 Desarrollo dirigido por pruebas (TDD)
-   18. Capítulo 9: Sección 9.1 Procesos de evolución
-   19. Capítulo 9: Sección 9.3 Mantenimiento del software
-   20. Capítulo 11: Sección 11.1 Propiedades de confiabilidad
-   21. Capítulo 14: Sección 14.2 Diseño para la seguridad
-   22. Capítulo 16: Sección 16.1 Panorama de la reutilización
-   23. Capítulo 18: Sección 18.4 Software como servicio (SaaS)
-   24. Capítulo 22: Sección 22.1 Gestión del riesgo
-   25. Capítulo 23: Sección 23.4 Planeación ágil
-   26. Capítulo 25: Sección 25.1 Administración del cambio
-   27. Capítulo 25: Sección 25.2 Gestión de versiones
-
-**Second Part**
 
 1. [Docker DeepDive](/Resources/Documents/Docker-DeepDive.pdf)
    1. Chapter 1: Section Hello Containers!
