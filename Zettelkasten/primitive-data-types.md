@@ -36,7 +36,7 @@ Have two states (on/off)
 
 <details><summary> C </summary>
 
-Dynamic sizes, C specific 
+Hardware dependent sizes, C specific 
 
 
 </details>
