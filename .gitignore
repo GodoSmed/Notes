@@ -1,1 +1,2 @@
-Resources/Documents
+Resources/Documents/*
+!Resources/Documents/.gitkeep
