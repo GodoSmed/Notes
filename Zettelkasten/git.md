@@ -125,7 +125,13 @@ git push --set-upstream origin `branchName`
 
 ### What is it used for?
 
+feat: A new feature for the user.
+fix: A bug fix.   
+docs: Documentation-only changes.   
+style: Changes that do not affect the meaning of the code (formatting, missing semicolons, etc.).   
+refactor: A code change that neither fixes a bug nor adds a feature.   
+test: Adding missing tests or correcting existing tests.   
+chore: Changes to the build process or auxiliary tools.
 
-## Variations & Links
 
 
