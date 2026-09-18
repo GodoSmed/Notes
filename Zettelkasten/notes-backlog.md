@@ -1064,7 +1064,7 @@ STATE D
 
 
 
-## 🔴 PHASE 4: RTOS and Reliable Engineering <span>
+## 🔴 PHASE 4: RTOS and Reliable Engineering
 
 ### Real-Time Concepts for Embedded Systems []
 
