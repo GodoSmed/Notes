@@ -1062,6 +1062,8 @@ STATE D
 - 🔥 Chapter 12: Jitter []
 - 🔥 Chapter 12: Software-based memory errors []
 
+
+
 ## 🔴 PHASE 4: RTOS and Reliable Engineering <span>
 
 ### Real-Time Concepts for Embedded Systems []
@@ -1350,6 +1352,75 @@ STATE D
 - 🔥 Chapter 13: Section 13.5 - Other Common Sources of Error []
 - 🔥 Chapter 13: Section 13.6 - Additional Debugging Steps []
 
+### A Comprehensible Guide to Controller Area Network
+
+- [Source Book](/Resources/Documents/Guide-to-Controller-Area-Network.pdf)
+- 🔥 Chapter 1: What is CAN? []
+- ⚪ Chapter 1: A Brief History of CAN []
+- 🔥 Chapter 1: CAN Applications []
+- 🟡 Chapter 1: CAN-in-Automation (CiA) []
+- 🔥 Chapter 1: International Standard ISO 11898 []
+- 🔥 Chapter 2: Frames []
+- 🔥 Chapter 2: Multi-Master Bus Access []
+- 🔥 Chapter 2: Message Broadcasting []
+- 🔥 Chapter 2: Message Priority []
+- 🟡 Chapter 2: Short Messages []
+- 🔥 Chapter 2: Data Rate and Message Frequency []
+- 🔥 Chapter 2: Bus Arbitration []
+- 🔥 Chapter 2: Error Detection & Fault Confinement []
+- 🟡 Chapter 3: CAN Controller Firmware []
+- ⚪ Chapter 3: Low Cost Implementation []
+- 🔥 Chapter 3: Speed, Reliability, Error-Resistance []
+- ⚪ Chapter 3: Worldwide Acceptance []
+- 🟡 Chapter 3: Higher Layer Protocols []
+- 🔥 Chapter 4: Dominant and Recessive Bus Level []
+- 🔥 Chapter 4: Data and Remote Frames []
+- 🔥 Chapter 4: Data Frame []
+- 🟡 Chapter 4: Remote Frame []
+- ⚪ Chapter 4: Remote Frame on Recall []
+- 🔥 Chapter 4: Message Frame Format []
+- 🔥 Chapter 4: Extended CAN Protocol []
+- 🔥 Chapter 4: Error Frame []
+- 🔥 Chapter 4: Error Flag []
+- 🟡 Chapter 4: Error Delimiter []
+- 🟡 Chapter 4: Overload Frame []
+- ⚪ Chapter 4: Overload Flag []
+- ⚪ Chapter 4: Overload Delimiter []
+- 🟡 Chapter 4: Interframe Space []
+- 🔥 Chapter 4: Frame Length and Transmission Times []
+- 🔥 Chapter 4: Baud Rate Considerations []
+- 🔥 Chapter 4: Bandwidth []
+- 🔥 Chapter 5: Message Broadcasting with Data Frames []
+- 🟡 Chapter 5: Message Request with Remote Frames []
+- 🔥 Chapter 6: Principle of Bus Arbitration []
+- 🔥 Chapter 6: Main Rules of Bus Arbitration []
+- 🔥 Chapter 6: Bus Arbitration Example []
+- 🔥 Chapter 7: Bit Coding []
+- 🔥 Chapter 7: Bit Stuffing []
+- 🔥 Chapter 7: Bit Timing and Synchronization []
+- 🔥 Chapter 7: Bit Sample Point []
+- 🔥 Chapter 7: Bit Time []
+- 🔥 Chapter 7: Bit Time Programming []
+- 🔥 Chapter 7: Synchronization []
+- 🟡 Chapter 7: Phase Error and Resynchronization []
+- 🟡 Chapter 7: Oscillator Frequency Tolerance Range []
+- 🔥 Chapter 8: Error Detection []
+- 🔥 Chapter 8: Bit Monitoring []
+- 🔥 Chapter 8: Checksum Check []
+- 🔥 Chapter 8: Bit Stuffing Error []
+- 🔥 Chapter 8: Frame Check Error []
+- 🔥 Chapter 8: Acknowledgement Error []
+- 🔥 Chapter 8: Error Signaling []
+- 🔥 Chapter 8: Fault Confinement []
+- 🔥 Chapter 8: Error Counting []
+- 🔥 Chapter 9: Bus Topology []
+- 🔥 Chapter 9: Bus Medium []
+- 🔥 Chapter 9: Bus Signal Level []
+- 🔥 Chapter 9: Bus Connection []
+- 🔥 Chapter 9: Maximum Bus Length []
+- 🟡 Chapter 9: Wiring and Connectors []
+- ⚪ Chapter 10: Summary []
+
 ### Test-Driven Development for Embedded C []
 
 - [Source Book](/Resources/Documents/Test-Driven-Development-for-Embedded-C.pdf)
@@ -1449,6 +1520,145 @@ STATE D
 - 🔥 Appendix E: Section E.1 - Test Cases to Assure Substitutable Behavior []
 - 🔥 Appendix E: Section E.5 - Burden the Layer, Not the Application []
 
+### C++ in Embedded Systems
+
+- [Source Book](/Resources/Documents/Cpp-in-Embedded-Systems.pdf)
+🔥 Chapter 1: Modern C++ []
+🔥 Chapter 1: Generic types []
+🟡 Chapter 1: Ring buffer in C []
+🔥 Chapter 1: Ring buffer in C++ []
+🔥 Chapter 1: constexpr []
+🔥 Chapter 1: Constructors and destructors []
+🔥 Chapter 1: Optimization []
+🔥 Chapter 1: Templates []
+🔥 Chapter 1: RTTI and exceptions []
+🔥 Chapter 2: Airbag control unit and real-time requirements []
+🔥 Chapter 2: Measuring firmware performance and non-determinism []
+🔥 Chapter 2: A-B timing and real-time execution []
+🔥 Chapter 2: Determinism vs. Non-Determinism in Firmware []
+🔥 Chapter 2: Dynamic memory management []
+🔥 Chapter 2: Memory fragmentation []
+🔥 Chapter 2: Safety-critical guidelines for dynamic memory management in C++ []
+🔥 Chapter 2: Dynamic memory management in the C++ standard library []
+🔥 Chapter 2: Disabling unwanted C++ features []
+🔥 Chapter 3: Compilers and development environments []
+🟡 Chapter 3: Arm Keil MDK and Arm Compiler for Embedded []
+🟡 Chapter 3: IAR C/C++ Compiler and IAR Embedded Workbench for Arm []
+🟡 Chapter 3: Vendor-supported IDEs and GCC []
+🔥 Chapter 3: GCC []
+🟡 Chapter 3: Compiler Explorer []
+🔥 Chapter 3: Static analyzers []
+🔥 Chapter 3: Unit testing []
+🔥 Chapter 3: Profiling []
+🔥 Chapter 4: Requirements for a modern software development environment []
+🔥 Chapter 4: Compiler []
+🔥 Chapter 4: Build automation []
+🟡 Chapter 4: Simulator []
+🔥 Chapter 4: Containerized development environment []
+🔥 Chapter 4: Building the Hello, World! program using CMake []
+🔥 Chapter 4: Building a firmware using CMake []
+🟡 Chapter 4: Containerized development environment and Visual Studio Code []
+🔥 Chapter 5: Encapsulation []
+🟡 Chapter 5: Setters and getters []
+🟡 Chapter 5: Static methods []
+🔥 Chapter 5: Structs []
+🟡 Chapter 5: Storage duration and initialization []
+🔥 Chapter 5: Constructors and member initializer lists []
+🔥 Chapter 5: Converting constructors and explicit specifiers []
+🟡 Chapter 5: Static member initialization []
+🔥 Chapter 5: Inheritance and dynamic polymorphism []
+🔥 Chapter 5: Virtual functions []
+🔥 Chapter 5: UML class diagrams []
+🔥 Chapter 5: Dynamic polymorphism []
+🔥 Chapter 6: Namespaces []
+🟡 Chapter 6: Unnamed namespaces []
+🟡 Chapter 6: Nested namespaces []
+🟡 Chapter 6: Function overloading []
+🔥 Chapter 6: Interoperability with C []
+🔥 Chapter 6: External and Language Linkage in C++ []
+🔥 Chapter 6: C standard library in C++ []
+🔥 Chapter 6: References []
+🔥 Chapter 6: Value categories []
+🔥 Chapter 6: Lvalue references []
+🟡 Chapter 6: Rvalue references []
+🔥 Chapter 6: Standard library containers and algorithms []
+🔥 Chapter 6: Array []
+🟡 Chapter 6: Container adaptors []
+🔥 Chapter 6: Algorithms []
+⚪ Chapter 6: std::copy and std::copy_if []
+⚪ Chapter 6: std::sort []
+🔥 Chapter 7: Error codes and asserts []
+🔥 Chapter 7: Global error handlers []
+🔥 Chapter 7: Asserts []
+🟡 Chapter 7: Exceptions []
+🔥 Chapter 7: std::optional and std::expected []
+🔥 Chapter 8: Template basics []
+🟡 Chapter 8: Template specialization []
+🟡 Chapter 8: Template metaprogramming []
+🔥 Chapter 8: Concepts []
+🔥 Chapter 8: Compile-time polymorphism []
+🔥 Chapter 8: Using Class Templates for Compile-Time Polymorphism []
+🔥 Chapter 8: Curiously Recurring Template Pattern (CRTP) []
+🔥 Chapter 9: Implicit conversion []
+🔥 Chapter 9: Numeric promotions and conversions []
+⚪ Chapter 9: Array-to-pointer conversion []
+⚪ Chapter 9: Function-to-pointer conversion []
+🔥 Chapter 9: Explicit conversion []
+⚪ Chapter 9: const_cast []
+🔥 Chapter 9: static_cast []
+🟡 Chapter 9: dynamic_cast []
+🔥 Chapter 9: reinterpret_cast []
+🔥 Chapter 9: Type punning []
+🔥 Chapter 9: Type punning – the correct way []
+🔥 Chapter 9: Strong types []
+🔥 Chapter 10: Lambda expression basics []
+🟡 Chapter 10: Storing lambdas using std::function []
+🟡 Chapter 10: The command pattern []
+🔥 Chapter 10: GPIO interrupt manager []
+🔥 Chapter 10: std::function and dynamic memory allocation []
+🔥 Chapter 11: constexpr specifier []
+🔥 Chapter 11: Example 1 – MAC address parser []
+🔥 Chapter 11: Example 2 – Generating a lookup table []
+🔥 Chapter 11: Generating a lookup table []
+🔥 Chapter 11: Writing a signal representing the Steinhart-Hart equation []
+🔥 Chapter 11: Analyzing the usage example firmware code []
+🔥 Chapter 11: consteval specifier []
+🔥 Chapter 12: Memory-mapped peripherals []
+🔥 Chapter 12: CMSIS memory-mapped peripherals []
+🔥 Chapter 12: Memory-mapped peripherals in C++ []
+🔥 Chapter 12: Type-safe memory-mapped peripherals in C++ []
+🔥 Chapter 12: Modeling HSION and HSITRIM bit fields from the RCC register []
+🔥 Chapter 12: Generic versions of hsion and hsi_trim []
+🔥 Chapter 12: Timers []
+🔥 Chapter 13: Using C HAL in C++ projects []
+🔥 Chapter 13: UART interface for flexible software design []
+🔥 Chapter 13: The UART interface in the Adapter pattern []
+🟡 Chapter 13: Introducing static classes []
+🔥 Chapter 13: Using RAII for wrapping the littlefs C library []
+🔥 Chapter 13: LittleFS – a filesystem for microcontrollers []
+🔥 Chapter 13: Introducing an RAII-based C++ wrapper []
+🔥 Chapter 13: Cleaner file management with RAII []
+🔥 Chapter 14: Super-loop and motivation for a sequencer []
+🔥 Chapter 14: Designing a sequencer []
+🔥 Chapter 14: Storing a callable []
+🔥 Chapter 14: Implementing a sequencer []
+🔥 Chapter 15: The Observer pattern []
+🔥 Chapter 15: Runtime implementation []
+🔥 Chapter 15: Compile-time implementation []
+🟡 Chapter 15: Leveraging variadic templates []
+🟡 Chapter 15: Improving the compile-time implementation []
+🔥 Chapter 16: FSM – a simple implementation []
+🔥 Chapter 16: Describing states and events []
+🔥 Chapter 16: Tracking current state and handling events – the FSM class []
+🔥 Chapter 16: Using the ble_fsm class []
+🔥 Chapter 16: FSM – implementation using the State pattern []
+🔥 Chapter 16: Understanding state class interfaces []
+🔥 Chapter 16: Refactoring the ble_fsm class []
+🔥 Chapter 16: Implementing the State pattern []
+🔥 Chapter 16: State design pattern []
+🔥 Chapter 16: State pattern implementation using tag dispatching []
+🔥 Chapter 16: Boost SML []
+
 ## 🏰 Master Degree
 
 ### Deep Architecture and Advanced Electronics:
@@ -1467,25 +1677,24 @@ STATE D
 - [Embedded Rust Book](/Resources/Documents/Embedded-Rust-Book.pdf)
 - [An Introduction to Parallel Programming](/Resources/Documents/An-Introduction-to-Parallel-Programming.pdf)
 
-#### C++ & Python
+#### Python
 
-- [C++ in Embedded Systems](/Resources/Documents/Cpp-in-Embedded-Systems.pdf)
 - [Python Pocket Reference](/Resources/Documents/Python-Pocket.pdf)
 - [Micropython](/Resources/Documents/Micropython-Docs.pdf)
 
 ### Infrastructure, Networks, and IoT:
 
 - [Computer Networks](/Resources/Documents/Computer-Networks.pdf)
-- [Docker Deep Dive](/Resources/Documents/Docker-DeepDive.pdf)
-- [Database System Concepts](/Resources/Documents/Database-System-Concepts.pdf)
-- [Designing Data-Intensive Applications](/Resources/Documents/Designing-Data-Intensive-Applications.pdf)
 
 ## 🎹 Hobby - High Level Software Development
 
 ### Web Development
 
 - [Web Programming with HTML5, CSS, and JavaScript](/Resources/Documents/Web-Programming-With-HTML5-CSS-And-JavaScript.pdf)
+- [Database System Concepts](/Resources/Documents/Database-System-Concepts.pdf)
 - [Node.js Design Patterns](/Resources/Documents/Node.js-Design-Patterns.pdf)
+- [Designing Data-Intensive Applications](/Resources/Documents/Designing-Data-Intensive-Applications.pdf)
+- [Docker Deep Dive](/Resources/Documents/Docker-DeepDive.pdf)
 
 ### General Software Development
 
