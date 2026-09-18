@@ -41,18 +41,6 @@ Hardware dependent sizes, C specific
 
 </details>
 
-<details><summary> Java </summary>
-
-Fixed Sizes
-
-| Type  | Size | Range |
-| ----- | ---- | ----- |
-| int   |      |       |
-| short |      |       |
-| long  |      |       |
-
-</details>
-
 ---
 
 ### [Pointers](./pointers.md)
