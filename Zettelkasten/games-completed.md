@@ -40,6 +40,8 @@ STATE: D
 - Super Metroid
 - Terraria
 - The Elder Scrolls IV: Oblivion
+- The Legend of Zelda Ocarina of Time
+- The Legend of Links Awakening 
 - 巫兎 - KANNAGI USAGI
 
 </span>
