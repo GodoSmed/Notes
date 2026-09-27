@@ -8,7 +8,7 @@ STATE: D
 
 - Steam Wishlist
 - Terraria Collections
-- Project Zomboid
+- Mount and blade Warband WSE2 Mods (Favorites)
 - Morrowind Tamriel Rebuilt with VR
 - Monster Hunter Frontier Z
 - F-Zero X PC Recompiled
@@ -54,15 +54,6 @@ STATE: D
 
 ## Minecraft Modpacks
 
-- Engineers Life 2
-- Create Astral
-- Skyfactory 4
-- Material Energy^4
-- Nuclear Tech: Integrated
-- Create: Arcane Engineering
-
----
-
 - Enigmatica 2 Expert Extended
 - Craftoria
 - Raspberry Flavoured
@@ -85,6 +76,5 @@ STATE: D
 - Divine Journey 2
 - Cobbleverse Pokemon Adventure
 - Terrafirma Rescue Unofficial (Modrith)
-- Space Tech: Integrated
 - Nuclear Tech New Horizons
 - Nomifactory CEu Expert Mode
