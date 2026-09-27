@@ -76,5 +76,6 @@ STATE: D
 - Divine Journey 2
 - Cobbleverse Pokemon Adventure
 - Terrafirma Rescue Unofficial (Modrith)
-- Nuclear Tech New Horizons
+- Nuclear Tech: Integrated (First)
+- Nuclear Tech New Horizons (Second)
 - Nomifactory CEu Expert Mode
