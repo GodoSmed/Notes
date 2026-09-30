@@ -20,6 +20,11 @@ STATE: D
 
 ## Emulation 
 
+- Kings Field 1
+- Kings Field 2
+- Shadow Tower
+- Shadow Tower Abyss
+- Alundra
 - Omikron
 - Baroque
 - Berserk (DC)
