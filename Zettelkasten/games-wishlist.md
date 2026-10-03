@@ -83,4 +83,3 @@ STATE: D
 - Terrafirma Rescue Unofficial (Modrith)
 - Nuclear Tech: Integrated (First)
 - Nuclear Tech New Horizons (Second)
-- Nomifactory CEu Expert Mode

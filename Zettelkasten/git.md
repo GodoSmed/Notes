@@ -1,11 +1,12 @@
 # Git
-STATE: D
+STATE: I
 
 SOURCE: ~
 
 ## Basics
 
 ### What is it?
+
 
 
 ### How does it work?
