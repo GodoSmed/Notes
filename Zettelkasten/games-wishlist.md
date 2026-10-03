@@ -68,7 +68,6 @@ STATE: D
 - RLCraft Dregora
 - Rebirth of the Night
 - DawnCraft
-- Liminal Industries
 - Prominence II
 - FTB Inferno
 - DeceasedCraft
