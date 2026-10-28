@@ -15,13 +15,13 @@ STATE: D
 - Perfect Dark PC
 - GoldenEye PC
 - ToZ - Skyward Sword PC (Modded)
-- ToZ - Majora's Mask PC
+- ToZ - Majora's Mask PC (Modded)
 - F-Zero X Decompiled
 - Pokemon Reborn
 - OpenStarbound 500 mods Collection
 - Super Mario 64 Mods PC
 - Metroid Prime Trilogy (Primehack)
-- Emulators
+- Emulators + Pokemon Difficult Romhacks
 
 ## Minecraft Modpacks
 
