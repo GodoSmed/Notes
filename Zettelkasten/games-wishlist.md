@@ -25,6 +25,10 @@ STATE: D
 
 ## Minecraft Modpacks
 
+- Material Energy 4
+- Engineers life 2
+- Create Astral
+- Nomifactory CEu
 - Liminal Industries
 - Enigmatica 2 Expert Extended
 - Craftoria
